@@ -4,4 +4,4 @@ Buddy Racer is right back on track. Take part in this realistic motorcycle physi
 This project is for Js practice. I made this for practice purpose.
 <b>coded by [Swda](https://github.com/Supsource )</b>
 ### 👍 HAVE FUN 👍
-Thanks, Swda
+Thanks, Swda!
